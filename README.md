@@ -1,9 +1,8 @@
 ### Hi there 👋, I am Dagmawi zewdu.you can call me Dagi.
 
--💻 I am Full stack developer.I have HTML,CSS,Javascript,React,React native,socket.io, node.js,php,java and my favourite language typescript coding skills.
-
+-💻 I am Full stack developer.I have an experience on HTML,CSS,Javascript,React,React native,socket.io, node.js,php,java,Mysql,Mongodb and my favorite language typescript.
+<h2 align= "center">🛠 Tech Stack  </h2>
 <p align="center">
-
 <a href="https://getbootstrap.com" target="blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="max-width:40%;" width="40" height="40"></a>
 <a href="https://www.w3schools.com/css/" target="blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="max-width:100%;" width="40" height="40"></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="max-width:100%;" width="40" height="40"> </a>
@@ -18,14 +17,13 @@
 - 🔭 I’m currently working on local freelancing sites and Also private company.
 
 - 🌱 And also I’m currently learning on [Microverse](https://www.microverse.org/).To further improve my skills.         
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dagic-zewdu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 - 👯 I’m looking to collaborate on opensource projects.
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dagic-zewdu&show_icons=true&theme=dark&layout=compact" alt="Dagic-zewdu" />
 - 📫  You can reach me on 
   >📱 whatsapp,telegram(+251910565994)
 
   > ✉️  dagi.zewdu.dz@gmail.com
-- 😄 Pronouns: 
 
 - ⚡ Fun fact:
    > ☕ 1430  cups of cofee, 
