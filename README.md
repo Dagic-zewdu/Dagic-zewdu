@@ -1,5 +1,6 @@
 ### Hi there 👋, I am Dagmawi zewdu.you can call me Dagi.
 
+<img align="center" src="https://media.giphy.com/media/hOXPs0xOfNiu4Us8Yy/giphy.gif" alt=''> 
 -💻 I am Full stack developer.I have an experience on HTML,CSS,Javascript,React,React native,socket.io, node.js,php,java,Mysql,Mongodb and my favorite language typescript.
 <h2 align= "center">🛠 Tech Stack  </h2>
 <p align="center">
@@ -16,16 +17,16 @@
 </p>
 - 🔭 I’m currently working on local freelancing sites and Also private company.
 
-- 🌱 And also I’m currently learning on [Microverse](https://www.microverse.org/).To further improve my skills.         
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dagic-zewdu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+- 🌱 And also I’m currently learning on [Microverse](https://www.microverse.org/).To further improve my skills.  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dagic-zewdu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 - 👯 I’m looking to collaborate on opensource projects.
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dagic-zewdu&show_icons=true&theme=dark&layout=compact" alt="Dagic-zewdu" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dagic-zewdu&show_icons=true&theme=dark&layout=compact" alt="Dagic-zewdu" />
 
-- 📫  You can reach me on 
-  >📱 whatsapp,telegram(+251910565994)
-  > ✉️  dagi.zewdu.dz@gmail.com
+- 📫 You can reach me on :
+
+  > 📱 whatsapp,telegram(+251910565994)
+  > ✉️ dagi.zewdu.dz@gmail.com
 
 - ⚡ Fun fact:
-   > ☕ 1430  cups of cofee, 
-   >⏱️  10,200 hours of coding
-
+  > ☕ 1430 cups of coffee,
+  > ⏱️ 10,200 hours of coding
