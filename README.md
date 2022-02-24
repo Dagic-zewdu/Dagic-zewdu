@@ -26,7 +26,89 @@
 
   > 📱 whatsapp,telegram(+251910565994)
   > ✉️ dagi.zewdu.dz@gmail.com
-
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Gallery</h3>
+        <br />
+      <p>
+  <a href="http://travelara.herokuapp.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+        </p>
+        <br />
+        <a target="_blank" href="https://gallery.gov.et">
+            <img src="images/gallery.png" width="100%"  height="265px"
+            style="object-fit: cover;" alt="Travel App"/>
+        </a>
+        <p><strong>Javascript,React,styled.js, Node.js, & Express.js</strong> - 
+        shows the nature and awesome images in ethiopia !</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Webook</h3>
+        <br />
+        <p>
+          
+  <a href="https://github.com/Dagic-zewdu/webook" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://webook1.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <br />
+        <a target="_blank" href="http://webook1.herokuapp.com/">
+            <img src="images/webook1.png" width="100%" height='250px' style="object-fit: cover;" alt="Rigley 2"/>
+        </a>
+        <p><strong>Mern stack(Mongo db,express,react and Node.js)</strong> <br>
+        Makes easy communication easy for companies .Like easy way of writing leter and also messages. You can test using employee id=> 123 and password=> 123. and after url loads. try to refresh the page. It doesn't show any content when it is reload on the first time. 
+        </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Maleda : video streaming sites</h3>
+        <br />
+        <p>
+  <a href="https://github.com/Dagic-zewdu/maleda" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://maleda.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <br />
+        <a target="_blank" href="https://maleda.herokuapp.com">
+          <img src="images/Maleda.png" width="100%" alt="Portfolio" style="object-fit: cover;" height='250px'/>
+        </a>
+        <p><strong>React and javascript<strong> </br>
+      - Videos straming app and used to read news</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Metrix tech website(under construction)</h3>
+        <br />
+        <p>
+          
+  <a href="https://github.com/Dagic-zewdu/Capstone-project-1" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://dagic-zewdu.github.io/Capstone-project-1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <br />
+        <a target="_blank" href="https://dagic-zewdu.github.io/Capstone-project-1/">
+          <img src="images/metrix.png" width="100%" alt="Matching Cards" style="object-fit: cover;" height='250px' />
+        </a>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - 
+       </br> This website is for metrix tech company and used as a portifolio.
+        !</p>
+    </td>
+  </tr>
+</table>
 - ⚡ Fun fact:
   > ☕ 1430 cups of coffee,
   > ⏱️ 10,200 hours of coding
