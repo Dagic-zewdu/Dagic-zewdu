@@ -36,7 +36,7 @@
       <h3>Gallery</h3>
         <br />
       <p>
-  <a href="http://travelara.herokuapp.com" target="_blank">
+  <a href="https://gallery.gov.et" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
         </p>
