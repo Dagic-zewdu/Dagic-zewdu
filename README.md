@@ -1,7 +1,6 @@
 ### Hi there 👋, I am Dagmawi zewdu.you can call me Dagi.
 
 <img align="center" src="https://media.giphy.com/media/hOXPs0xOfNiu4Us8Yy/giphy.gif" alt=''> 
--💻 I am Full stack developer.I have an experience on HTML,CSS,Javascript,React,React native,socket.io, node.js,php,java,Mysql,Mongodb and my favorite language typescript.
 <h2 align= "center">🛠 Tech Stack  </h2>
 <p align="center">
 <a href="https://getbootstrap.com" target="blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="max-width:40%;" width="40" height="40"></a>
