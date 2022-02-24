@@ -12,6 +12,9 @@
 <a href="https://reactjs.org/docs/getting-started.html" rel="nofollow" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ruby" style="max-width:100%;" width="40" height="40"> </a>
 <a href="https://nodejs.org/en/docs/" rel="nofollow" target="blank"> <img src="https://e7.pngegg.com/pngimages/540/810/png-clipart-node-js-javascript-npm-computer-icons-web-application-others-miscellaneous-text.png" alt="ruby" style="max-width:100%;" width="40" height="40"> </a>
 <a href="https://www.php.net/docs.php" rel="nofollow" target="blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLGIEDmHwvNss_HhFin5ErHSOf0-sgLLAV3A&usqp=CAU" alt="ruby" style="max-width:100%;" width="40" height="40"> </a>
+<a href="https://www.php.net/docs.php" rel="nofollow" target="blank"> <img src="https://cdn.imgbin.com/16/11/12/imgbin-the-c-programming-language-c-for-beginners-masters-computer-programming-leave-the-material-Bny7YvixPTg3ycTueddYbM1ch.jpg" alt="c++" style="max-width:100%;" width="40" height="40"> </a>
+<a href="https://www.php.net/docs.php" rel="nofollow" target="blank"> <img src="https://camo.githubusercontent.com/c704e8013883cc3a04c7657e656fe30be5b188145d759a6aaff441658c5ffae0/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f5f746578742e737667" alt="c++" style="max-width:100%;" width="40" height="40"> </a>
+<a href="https://www.php.net/docs.php" rel="nofollow" target="blank"> <img src="https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png" alt="c++" style="max-width:100%;" width="40" height="40"> </a>
 </p>
 - 🔭 I’m currently working on local freelancing sites and Also private company.
 
