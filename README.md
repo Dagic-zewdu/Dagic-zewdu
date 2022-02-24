@@ -75,7 +75,7 @@
       <h3>Maleda : video streaming sites</h3>
         <br />
         <p>
-  <a href="https://github.com/Dagic-zewdu/maleda" target="_blank">
+  <a href="https://github.com/Dagic-zewdu/maleda1" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://maleda.herokuapp.com/" target="_blank">
