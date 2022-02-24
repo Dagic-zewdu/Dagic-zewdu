@@ -64,7 +64,8 @@
         <a target="_blank" href="http://webook1.herokuapp.com/">
             <img src="images/webook1.png" width="100%" height='250px' style="object-fit: cover;" alt="Rigley 2"/>
         </a>
-        <p><strong>Mern stack(Mongo db,express,react and Node.js)</strong> <br>
+        <p><strong>Webpack Typescript,express,
+        mongo db</strong> <br>
         Makes easy communication easy for companies .Like easy way of writing leter and also messages. You can test using employee id=> 123 and password=> 123. and after url loads. try to refresh the page. It doesn't show any content when it is reload on the first time. 
         </p>
     </td>
@@ -86,7 +87,7 @@
         <a target="_blank" href="https://maleda.herokuapp.com">
           <img src="images/Maleda.png" width="100%" alt="Portfolio" style="object-fit: cover;" height='250px'/>
         </a>
-        <p><strong>React and javascript<strong> </br>
+        <p><strong>Mern stack(Mongo db,express,react and Node.js)<strong> </br>
       - Videos straming app and used to read news</p>
     </td>
     <td width="33%" valign="top">
