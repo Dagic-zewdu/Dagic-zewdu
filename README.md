@@ -1,6 +1,25 @@
-### Hi there 👋, I am Dagmawi zewdu.you can call me Dagi.
+<h2 align="center"> Hi there 👋, I am Dagmawi zewdu.you can call me Dagi.
+</h2>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dagi-zewdu-21b835215/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="linkdin" height="30" width="40" /></a>
+ <a href="https://twitter.com/dagic4" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="adampithewan" height="30" width="40" /></a>
+      <a href="https://www.instagram.com/dagic_z/" target="blank"><img align="center"
+      src="https://logowik.com/content/uploads/images/instagram-icon.jpg"
+      alt="My_Instagram" height="30" width="40" /></a>
+      <a href="mailto:dagi.zewdu.dz@gmail.com" target="blank"><img align="center"
+      src="
+https://cdn.icon-icons.com/icons2/836/PNG/512/Google_icon-icons.com_66793.png"
+      alt="My_Instagram" height="30" width="30" /></a>
+</p>
 
-<img align="center" src="https://media.giphy.com/media/hOXPs0xOfNiu4Us8Yy/giphy.gif" alt=''> 
+<p align="center">
+<img align="center" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt=''> 
+ </p>
 <h2 align= "center">🛠 Tech Stack  </h2>
 <p align="center">
 <a href="https://getbootstrap.com" target="blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="max-width:40%;" width="40" height="40"></a>
@@ -16,13 +35,10 @@
 <a href="https://www.php.net/docs.php" rel="nofollow" target="blank"> <img src="https://camo.githubusercontent.com/c704e8013883cc3a04c7657e656fe30be5b188145d759a6aaff441658c5ffae0/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f5f746578742e737667" alt="c++" style="max-width:100%;" width="40" height="40"> </a>
 <a href="https://www.php.net/docs.php" rel="nofollow" target="blank"> <img src="https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png" alt="c++" style="max-width:100%;" width="40" height="40"> </a>
 </p>
+<p align="center">
  <img align='center' height="180em" src="https://github-readme-stats.vercel.app/api?username=Dagic-zewdu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img align='center' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dagic-zewdu&show_icons=true&theme=dark&layout=compact" alt="Dagic-zewdu" />
-
-- 📫 You can reach me on :
-
-  > 📱 whatsapp,telegram(+251910565994)
-  > ✉️ dagi.zewdu.dz@gmail.com
+</p>
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
@@ -107,6 +123,3 @@
     </td>
   </tr>
 </table>
-- ⚡ Fun fact:
-  > ☕ 1430 cups of coffee,
-  > ⏱️ 10,200 hours of coding
