@@ -12,8 +12,7 @@
       src="https://logowik.com/content/uploads/images/instagram-icon.jpg"
       alt="My_Instagram" height="30" width="40" /></a>
       <a href="mailto:dagi.zewdu.dz@gmail.com" target="blank"><img align="center"
-      src="
-https://cdn.icon-icons.com/icons2/836/PNG/512/Google_icon-icons.com_66793.png"
+      src="https://freesvg.org/img/1534129544.png"
       alt="My_Instagram" height="30" width="30" /></a>
 </p>
 
