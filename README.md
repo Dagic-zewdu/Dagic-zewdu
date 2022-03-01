@@ -55,8 +55,8 @@
             <img src="images/gallery.png" width="100%"  height="265px"
             style="object-fit: cover;" alt="Travel App"/>
         </a>
-        <p><strong>Javascript,React,styled.js, Node.js, & Express.js</strong> - 
-        shows the nature and awesome images in ethiopia !</p>
+        <p><strong>React,Styled.js, Node.js, & Express.js</strong> <br>
+        -This is government site shows the nature and awesome images in ethiopia. It have albums that used to categorize the images.It also have event and live to show the country. You can also filter out the images and search albums</p>
     </td>
     <td width="33%" valign="top">
       <h3>Webook</h3>
@@ -97,8 +97,9 @@
         <a target="_blank" href="https://maleda.herokuapp.com">
           <img src="images/Maleda.png" width="100%" alt="Portfolio" style="object-fit: cover;" height='250px'/>
         </a>
-        <p><strong>Mern stack(Mongo db,express,react and Node.js)<strong> </br>
-      - Videos straming app and used to read news</p>
+        <p><strong>Mern stack(Mongo db,express,react and Node.js, Bootstrap)</strong> </br>
+      - Videos streaming website and used to read news. You can watch movies based on genre. Also have clip and spritual catagory.
+      </p>
     </td>
     <td width="33%" valign="top">
       <h3>Metrix tech website(under construction)</h3>
@@ -117,8 +118,8 @@
           <img src="images/metrix.png" width="100%" alt="Matching Cards" style="object-fit: cover;" height='250px' />
         </a>
         <p><strong>HTML5, CSS3, & Javascript</strong> - 
-       </br> This website is for metrix tech company and used as a portifolio.
-        !</p>
+       </br> This website is for metrix tech company. Original template was generated when i was learning on microverse. It served as final capstone project and i make i few adjustment to make the portiflio of metrix tech.
+      </p>
     </td>
   </tr>
 </table>
